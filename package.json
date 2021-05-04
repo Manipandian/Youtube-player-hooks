@@ -2,7 +2,7 @@
   "name": "video-player",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://manipandian.github.io/youtube-player",
+  "homepage": "http://manipandian.github.io/youtube-player-hooks",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
